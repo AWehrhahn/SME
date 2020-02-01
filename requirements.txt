@@ -13,5 +13,5 @@ plotly==4.5.0
 pytest==5.3.5
 pyarrow==0.15.1
 tqdm==4.42.0
-colorlog==4.0.2
+colorlog==4.1.0
 emcee==3.0.2
