@@ -4,7 +4,7 @@ pandas==1.0.1
 scipy==1.4.1
 numpy==1.18.1
 astropy==4.0
-requests==2.22.0
+requests==2.23.0
 matplotlib==3.1.3
 Ipython==7.9.0
 ipywidgets==7.5.1
