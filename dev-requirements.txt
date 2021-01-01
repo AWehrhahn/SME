@@ -8,6 +8,6 @@ tqdm==4.55.0
 colorlog==4.6.2
 emcee==3.0.2
 pybtex==0.23.0
-pytest==6.1.2
+pytest==6.2.1
 
 future-fstrings==1.2.0; python_version < "3.6"
