@@ -1,5 +1,5 @@
 pandas==1.2.1
-scipy==1.5.4
+scipy==1.6.0
 numpy==1.19.4
 astropy==4.2
 wget==3.2
