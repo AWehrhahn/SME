@@ -8,4 +8,4 @@ tqdm==4.56.0
 colorlog==4.7.2
 emcee==3.0.2
 pybtex==0.24.0
-flex-format==0.2.2
+flex-format==0.2.4
