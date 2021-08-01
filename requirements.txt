@@ -9,4 +9,4 @@ colorlog==5.0.1
 emcee==3.1.0
 pathos==0.2.8
 pybtex==0.24.0
-flex-format==0.2.11
+flex-format==0.2.13
