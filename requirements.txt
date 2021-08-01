@@ -7,6 +7,6 @@ requests==2.26.0
 tqdm==4.62.0
 colorlog==5.0.1
 emcee==3.1.0
-pathos
+pathos==0.2.8
 pybtex==0.24.0
 flex-format==0.2.11
