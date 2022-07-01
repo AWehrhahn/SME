@@ -6,7 +6,7 @@ astropy==5.1
 wget==3.2
 tqdm==4.64.0
 colorlog==6.6.0
-emcee==3.1.1
+emcee==3.1.2
 pybtex==0.24.0
 flex-format==0.2.18
 plotly==5.7.0
