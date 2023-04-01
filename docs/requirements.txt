@@ -2,7 +2,7 @@
 pandas==1.5.3
 scipy==1.10.1
 numpy==1.24.2
-astropy==5.1.1
+astropy==5.2.2
 wget==3.2
 tqdm==4.64.1
 colorlog==6.7.0
