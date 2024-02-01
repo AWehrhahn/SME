@@ -9,7 +9,7 @@ emcee==3.1.4
 pybtex==0.24.0
 flex-format==0.2.18
 plotly==5.18.0
-matplotlib==3.6.1
+matplotlib==3.8.2
 # Development Requirements
 pre-commit==2.20.0
 sphinx==5.3.0
