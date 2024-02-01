@@ -11,7 +11,7 @@ flex-format==0.2.18
 plotly==5.18.0
 matplotlib==3.8.2
 # Development Requirements
-pre-commit==2.20.0
+pre-commit==3.6.0
 sphinx==5.3.0
 pytest==7.2.0
 requests==2.28.1
