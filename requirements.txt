@@ -1,6 +1,6 @@
 pandas==2.2.3
 scipy==1.14.1
-numpy==1.23.4
+numpy==2.1.1
 astropy==5.1.1
 wget==3.2
 tqdm==4.64.1
